@@ -6,7 +6,7 @@
 * [Dataset](https://github.com/vincentariff/predicting-listing-gains-deep-learning#dataset)
 * [Requirements](https://github.com/vincentariff/predicting-listing-gains-deep-learning#requirements)
 * [Installation](https://github.com/vincentariff/predicting-listing-gains-deep-learning#installation)
-* [License]([#license](https://github.com/vincentariff/predicting-listing-gains-deep-learning#license))
+* [License](https://github.com/vincentariff/predicting-listing-gains-deep-learning#license)
 
 ## Introduction
 
