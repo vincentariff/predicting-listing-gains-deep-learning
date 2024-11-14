@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-* [Introduction](https://github.com/vincentariff/predicting-listing-gains-deep-learning/edit/main/README.md#introduction)
-* [Dataset](https://github.com/vincentariff/predicting-listing-gains-deep-learning/edit/main/README.md#dataset)
-* [Requirements](https://github.com/vincentariff/predicting-listing-gains-deep-learning/edit/main/README.md#requirements)
-* [Installation](https://github.com/vincentariff/predicting-listing-gains-deep-learning/edit/main/README.md#installation)
-* [License](https://github.com/vincentariff/predicting-listing-gains-deep-learning/edit/main/README.md#license)
+* [Introduction](https://github.com/vincentariff/predicting-listing-gains-deep-learning#introduction)
+* [Dataset](https://github.com/vincentariff/predicting-listing-gains-deep-learning#dataset)
+* [Requirements](https://github.com/vincentariff/predicting-listing-gains-deep-learning#requirements)
+* [Installation](https://github.com/vincentariff/predicting-listing-gains-deep-learning#installation)
+* [License]([#license](https://github.com/vincentariff/predicting-listing-gains-deep-learning#license))
 
 ## Introduction
 
