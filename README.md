@@ -17,6 +17,7 @@
 ## Dataset
 
 * The dataset we will use is sourced from [moneycontrol](https://www.moneycontrol.com/ipo/listed-ipos/) and contains historical data on past IPOs in India.
+* Dataset is located in the `Indian_IPO_Market_Data.csv` file.
 
 ## Requirements
 
@@ -36,4 +37,4 @@ pip install -r requirements.txt
 
 ## License
 
-* This project is licensed under the MIT License, detailed in the `license.txt` file.
+* This project is licensed under the MIT License, detailed in the `LICENSE.txt` file.
